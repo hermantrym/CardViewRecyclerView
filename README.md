@@ -7,10 +7,11 @@ buildFeatures {
     viewBinding true
 }
 ```
-<br></br>
-#### MainActivity
-<img src="screenshot_0.png" alt="screenshot one" width="30%" height="30%"/> &nbsp;&nbsp;&nbsp; <img src="screenshot_1.png" alt="screenshot two" width="30%" height="30%"/>
-<br></br>
+>*Like this:*\
+<img src="build_gradle.png" alt="screenshot one" width="100%" height="30%"/></br>
 
-#### DetailActivity
+>*MainActivity*\
+<img src="screenshot_0.png" alt="screenshot one" width="30%" height="30%"/> &nbsp;&nbsp;&nbsp; <img src="screenshot_1.png" alt="screenshot two" width="30%" height="30%"/>
+
+>*DetailActivity*\
 <img src="screenshot_2.png" alt="screenshot three" width="30%" height="30%"/>
